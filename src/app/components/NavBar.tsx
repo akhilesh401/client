@@ -2,7 +2,7 @@
 import { useRouter } from "next/navigation"
 import Link from "next/link"
 import React, { useContext } from "react"
-import { UserContext, useUser } from "../userContext"
+import { UserContext, useUser } from "/userContext"
 
 
 
